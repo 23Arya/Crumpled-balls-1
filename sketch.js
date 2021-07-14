@@ -14,7 +14,7 @@ function preload()
 
 }
 
-
+//steup
 function setup() {
 	createCanvas(1200, 400);
 
